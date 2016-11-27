@@ -5,13 +5,13 @@ import java.util.Scanner;
 public class whileloop {
 
 	public static void main(String[] args) {
-		whileloop d=new whileloop();
-		int b;
-		float c;
-		int f = 0;
+		
+		int f=1;
 		while(f==1){
-			int a;
 			Scanner s=new Scanner(System.in);
+			int a=s.nextInt();
+			int b=s.nextInt();
+			float c;
 			System.out.println("Enter Ur Choice");
 			System.out.println("Press 1 for Add");
 			System.out.println("Press 2 for sub");
