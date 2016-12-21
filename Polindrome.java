@@ -1,4 +1,4 @@
-package Loopingprg;
+package com.ttt.loop;
 
 public class Polindrome {
 
